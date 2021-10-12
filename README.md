@@ -1,6 +1,6 @@
-My portfolio with projects : http://milencio.netlify.com
+Hi there, I love food and coding, expecially in Golang. 
 <br/>
-For some of them It will take just a little bit of time to load because of Heroku server
+
 <!--
 **Milencioo/milencioo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
